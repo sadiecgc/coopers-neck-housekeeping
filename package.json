@@ -1,0 +1,7 @@
+{
+  "name": "housekeeping-app",
+  "private": true,
+  "dependencies": {
+    "googleapis": "^131.0.0"
+  }
+}

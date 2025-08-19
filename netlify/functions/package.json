@@ -1,0 +1,7 @@
+{
+  "name": "housekeeping-functions",
+  "private": true,
+  "dependencies": {
+    "googleapis": "^131.0.0"
+  }
+}
